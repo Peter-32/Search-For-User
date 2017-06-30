@@ -23,7 +23,7 @@ var search;
 
 while (true) {
     search = prompt('What student would you like to search for?  (Type "quit" to exit)');
-    if (search.toUpperCase() === 'QUIT') {
+    if (search.toUpperCase() === 'QUIT' || search === null) {
     	break;
     }
     

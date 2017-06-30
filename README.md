@@ -1,4 +1,4 @@
-# Build-A-Quiz
+# Search-For-User
 
 This project is an application that allows the user to retrieve information for a student.  The students searchable are
 

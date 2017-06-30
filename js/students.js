@@ -6,6 +6,12 @@ var students = [
 	points: 14730
 },
 {
+	name: 'Dave',
+	track: 'Java',
+	achievements: 252,
+	points: 15330
+},
+{
 	name: 'Jody',
 	track: 'iOS Development with Swift',
 	achievements: 175,
